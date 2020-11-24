@@ -37,7 +37,7 @@ For the plugin to work correctly you need to have:
 
 * Install Appium globally:
 ```shell
-$ npm install -g appium
+$ npm install -g appium@1.18.1  // `appium@1.19.0` is not supported yet
 ```
 
 * iOS Dependencies
